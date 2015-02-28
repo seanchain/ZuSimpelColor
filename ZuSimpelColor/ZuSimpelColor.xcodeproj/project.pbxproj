@@ -86,8 +86,7 @@
 			children = (
 				775CCDC61AA22DC20093B315 /* AppDelegate.h */,
 				775CCDC71AA22DC20093B315 /* AppDelegate.m */,
-				775CCDE81AA22DE10093B315 /* ZuSimpelColor.h */,
-				775CCDE91AA22DE10093B315 /* ZuSimpelColor.m */,
+				775CCDEB1AA235D30093B315 /* ZuSimpelColor */,
 				775CCDC91AA22DC20093B315 /* ViewController.h */,
 				775CCDCA1AA22DC20093B315 /* ViewController.m */,
 				775CCDCC1AA22DC20093B315 /* Main.storyboard */,
@@ -122,6 +121,15 @@
 				775CCDDD1AA22DC20093B315 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		775CCDEB1AA235D30093B315 /* ZuSimpelColor */ = {
+			isa = PBXGroup;
+			children = (
+				775CCDE81AA22DE10093B315 /* ZuSimpelColor.h */,
+				775CCDE91AA22DE10093B315 /* ZuSimpelColor.m */,
+			);
+			name = ZuSimpelColor;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -418,6 +426,7 @@
 				775CCDE41AA22DC20093B315 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		775CCDE51AA22DC20093B315 /* Build configuration list for PBXNativeTarget "ZuSimpelColorTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +435,7 @@
 				775CCDE71AA22DC20093B315 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
