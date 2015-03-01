@@ -43,7 +43,16 @@
 #define darksalmon [ZuSimpelColor R:233 G:150 B:122] //暗肉色
 #define darkseagree [ZuSimpelColor R:143 G:188 B:143] //暗海蓝色
 #define darkslateblue [ZuSimpelColor R:72 G:61 B:139] //暗灰蓝色
-
+#define darkslategrey [ZuSimpelColor R:47 G:79 B:79] //暗瓦灰色
+#define darkturquoise [ZuSimpelColor R:0 G:206 B:209] //暗宝绿色
+#define darkviolet [ZuSimpelColor R:148 G:0 B:211] //暗紫罗兰色
+#define deeppink [ZuSimpelColor R:255 G:20 B:147] //深粉红色
+#define deepskyblue [ZuSimpelColor R:0 G:191 B:255] //深天蓝色
+#define dimgray [ZuSimpelColor R:105 G:105 B:105] //暗灰色
+#define dodgerblue [ZuSimpelColor R:30 G:144 B:255] //闪蓝色
+#define firebrick [ZuSimpelColor R:178 G:34 B:34] //火砖色
+#define floralwhite [ZuSimpelColor R:255 G:250 B:240] //花白色
+#define forestgreen [ZuSimpelColor R:34 G:139 B:34] //森林绿
 
 
 @interface ZuSimpelColor : UIViewController
