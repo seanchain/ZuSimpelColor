@@ -31,6 +31,20 @@
 #define cyan [ZuSimpelColor R:0 G:255 B:255] //青色
 #define darkblue [ZuSimpelColor R:0 G:0 B:139] //暗蓝色
 #define darkcyan [ZuSimpelColor R:0 G:139 B:139] //暗青色
+#define darkgoldenrod [ZuSimpelColor R:184 G:134 B:11] //暗金黄色
+#define darkgray [ZuSimpelColor R:169 G:169 B:169] //暗灰色
+#define darkGreen [ZuSimpelColor R:0 G:100 B:0] //暗绿色
+#define darkkhaki [ZuSimpelColor R:189 G:183 B:107] //暗黄褐色
+#define darkmagenta [ZuSimpelColor R:139 G:0 B:139] //暗洋红
+#define darkolivergreen [ZuSimpelColor R:85 G:107 B:47] //暗橄榄绿
+#define darkorange [ZuSimpelColor R:255 G:140 B:0] //暗橘黄色
+#define darkorchid [ZuSimpelColor R:153 G:50 B:204] //暗紫色
+#define darkred [ZuSimpelColor R:139 G:0 B:0] //暗红色
+#define darksalmon [ZuSimpelColor R:233 G:150 B:122] //暗肉色
+#define darkseagree [ZuSimpelColor R:143 G:188 B:143] //暗海蓝色
+#define darkslateblue [ZuSimpelColor R:72 G:61 B:139] //暗灰蓝色
+
+
 
 @interface ZuSimpelColor : UIViewController
 
