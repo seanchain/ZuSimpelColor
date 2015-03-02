@@ -53,6 +53,37 @@
 #define firebrick [ZuSimpelColor R:178 G:34 B:34] //火砖色
 #define floralwhite [ZuSimpelColor R:255 G:250 B:240] //花白色
 #define forestgreen [ZuSimpelColor R:34 G:139 B:34] //森林绿
+#define fuchsia [ZuSimpelColor R:255 G:0 B:255] //紫红色
+#define gainsboro [ZuSimpelColor R:220 G:220 B:220] //淡灰色
+#define ghostwhite [ZuSimpelColor R:248 G:248 B:255] //幽灵白
+#define gold [ZuSimpelColor R:255 G:215 B:0] //金色
+#define goldenrod [ZuSimpelColor R:218 G:165 B:32] //金麒麟色
+#define gray [ZuSimpelColor R:128 G:128 B:128] //灰色
+#define greencolor [ZuSimpelColor R:0 G:128 B:0] //绿色
+#define greenyellow [ZuSimpelColor R:173 G:255 B:47] //黄绿色
+#define honeydew [ZuSimpelColor R:240 G:255 B:240] //蜜色
+#define hotpink [ZuSimpelColor R:255 G:105 B:180] //热粉红色
+#define indianred [ZuSimpelColor R:205 G:92 B:92] //印第安红
+#define indigo [ZuSimpelColor R:75 G:0 B:130] //靛青色
+#define ivory [ZuSimpelColor R:255 G:255 B:240] //象牙色
+#define khaki [ZuSimpelColor R:240 G:230 B:140] //黄褐色
+#define lavender [ZuSimpelColor R:230 G:230 B:250] //淡紫色
+#define lavenderblush [ZuSimpelColor R:255 G:240 B:245] //淡紫红
+#define lawngreen [ZuSimpelColor R:124 G:252 B:0] //草绿色
+#define lemonchiffon [ZuSimpelColor R:255 G:250 B:205] //柠檬绸色
+#define lightblue [ZuSimpelColor R:173 G:216 B:230] //亮蓝色
+#define lightcoral [ZuSimpelColor R:240 G:128 B:128] //亮珊瑚色
+#define lightcyan [ZuSimpelColor R:224 G:255 B:255] //亮青色
+#define lightgoldenrodyellow [ZuSimpelColor R:250 G:250 B:210] //亮金黄色
+#define lightgray [ZuSimpelColor R:211 G:211 B:211] //亮灰色
+#define lightgreen [ZuSimpelColor R:144 G:238 B:144] //亮绿色
+#define lightpink [ZuSimpelColor R:255 G:182 B:193] //亮粉红色
+
+
+
+
+
+
 
 
 @interface ZuSimpelColor : UIViewController
