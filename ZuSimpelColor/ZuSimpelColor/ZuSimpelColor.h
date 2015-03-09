@@ -78,6 +78,12 @@
 #define lightgray [ZuSimpelColor R:211 G:211 B:211] //亮灰色
 #define lightgreen [ZuSimpelColor R:144 G:238 B:144] //亮绿色
 #define lightpink [ZuSimpelColor R:255 G:182 B:193] //亮粉红色
+#define lightsalmon [ZuSimpelColor R:255 G:160 B:122] // 亮肉色
+#define lightseagreen [ZuSimpelColor R:32 G:178 B:170] //亮海蓝色
+#define lightskyblue [ZuSimpelColor R:135 G:206 B:250] //亮天灰色
+#define lightslategray [ZuSimpelColor R:119 G:136 B:153] //亮蓝灰
+#define lightsteelblue [ZuSimpelColor R:176 G:196 B:222] //亮钢蓝色
+#define lightyellow [ZuSimpelColor R:255 G:255 B:224] //亮黄色
 
 
 
