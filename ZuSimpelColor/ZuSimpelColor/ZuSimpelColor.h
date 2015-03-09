@@ -84,7 +84,12 @@
 #define lightslategray [ZuSimpelColor R:119 G:136 B:153] //亮蓝灰
 #define lightsteelblue [ZuSimpelColor R:176 G:196 B:222] //亮钢蓝色
 #define lightyellow [ZuSimpelColor R:255 G:255 B:224] //亮黄色
-
+#define lime [ZuSimpelColor R:0 G:255 B:0] //酸橙色
+#define limegreen [ZuSimpelColor R:50 G:205 B:50] //橙绿色
+#define linen [ZuSimpelColor R:250 G:240 B:230] //亚麻色
+#define magenta [ZuSimpelColor R:255 G:0 B:255] //红紫色
+#define maroon [ZuSimpelColor R:128 G:0 B:0] //粟色
+#define mediumaquamarine [ZuSimpelColor R:102 G:205 B:170] //中绿色
 
 
 
