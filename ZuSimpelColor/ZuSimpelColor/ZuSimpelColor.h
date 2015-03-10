@@ -113,8 +113,18 @@
 #define palegoldenrod [ZuSimpelColor R:238 G:232 B:170] //苍麒麟色
 #define palegreen [ZuSimpelColor R:152 G:251 B:152] //苍绿色
 #define paleturquoise [ZuSimpelColor R:175 G:238 B:238] //苍宝石绿
-
-
+#define palevioletred [ZuSimpelColor R:219 G:112 B:147] //仓紫罗兰色
+#define papayawhip [ZuSimpelColor R:255 G:239 B:213] //番木色
+#define peachpuff [ZuSimpelColor R:255 G:218 B:185] //桃色
+#define peru [ZuSimpelColor R:205 G:133 B:63] // 秘鲁色
+#define pink [ZuSimpelColor R:255 G:192 B:203] //粉色
+#define plum [ZuSimpelColor R:221 G:160 B:221] //洋李色
+#define powderblue [ZuSimpelColor R:176 G:224 B:230] //粉蓝色
+#define purple [ZuSimpelColor R:128 G:0 B:128] //紫色
+#define redcolor [ZuSimpelColor R:255 G:0 B:0] //红色
+#define rosybrown [ZuSimpelColor R:188 G:143 B:143] //褐玫瑰红
+#define royalblue [ZuSimpelColor R:65 G:105 B:225] //皇家蓝
+#define saddlebrown [ZuSimpelColor R:139 G:69 B:19] //重褐色
 
 @interface ZuSimpelColor : UIViewController
 
