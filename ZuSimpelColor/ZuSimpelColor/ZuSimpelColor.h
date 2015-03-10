@@ -90,6 +90,12 @@
 #define magenta [ZuSimpelColor R:255 G:0 B:255] //红紫色
 #define maroon [ZuSimpelColor R:128 G:0 B:0] //粟色
 #define mediumaquamarine [ZuSimpelColor R:102 G:205 B:170] //中绿色
+#define mediumblue [ZuSimpelColor R:0 G:0 B:205] //中蓝色
+#define mediumorchid [ZuSimpelColor R:186 G:85 B:211] //中粉紫色
+#define mediumpurple [ZuSimpelColor R:147 G:112 B:219] //中紫色
+#define mediumseagreen [ZuSimpelColor R:60 G:179 B:113] //中海蓝
+#define mediumslateblue [ZuSimpelColor R:123 G:104 B:238] //中暗蓝色
+#define mediumspringgreen [ZuSimpelColor R:0 G:250 B:154] //中春绿色
 
 
 
