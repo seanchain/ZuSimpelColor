@@ -96,10 +96,8 @@
 #define mediumseagreen [ZuSimpelColor R:60 G:179 B:113] //中海蓝
 #define mediumslateblue [ZuSimpelColor R:123 G:104 B:238] //中暗蓝色
 #define mediumspringgreen [ZuSimpelColor R:0 G:250 B:154] //中春绿色
-
-
-
-
+#define mediumturquoise [ZuSimpelColor R:72 G:209 B:204] //中绿宝石
+#define mediumvioletred [ZuSimpelColor R: G: B:] //中紫罗兰色
 
 
 
