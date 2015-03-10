@@ -112,7 +112,7 @@
 #define orchid [ZuSimpelColor R:218 G:112 B:214] //淡紫色
 #define palegoldenrod [ZuSimpelColor R:238 G:232 B:170] //苍麒麟色
 #define palegreen [ZuSimpelColor R:152 G:251 B:152] //苍绿色
-#define loaleturquoise [ZuSimpelColor R:175 G:238 B:238] //苍宝石绿
+#define paleturquoise [ZuSimpelColor R:175 G:238 B:238] //苍宝石绿
 
 
 
