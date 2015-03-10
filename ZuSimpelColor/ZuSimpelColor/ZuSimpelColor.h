@@ -97,7 +97,22 @@
 #define mediumslateblue [ZuSimpelColor R:123 G:104 B:238] //中暗蓝色
 #define mediumspringgreen [ZuSimpelColor R:0 G:250 B:154] //中春绿色
 #define mediumturquoise [ZuSimpelColor R:72 G:209 B:204] //中绿宝石
-#define mediumvioletred [ZuSimpelColor R: G: B:] //中紫罗兰色
+#define mediumvioletred [ZuSimpelColor R:199 G:21 B:133] //中紫罗兰色
+#define midnightblue [ZuSimpelColor R:25 G:25 B:112] //中灰蓝色
+#define mintcream [ZuSimpelColor R:245 G:255 B:250] //薄荷色
+#define mistyrose [ZuSimpelColor R:255 G:228 B:255] //浅玫瑰色
+#define moccasin [ZuSimpelColor R:255 G:228 B:181] //鹿皮色
+#define navajowhite [ZuSimpelColor R:255 G:222 B:173] //那瓦白
+#define navy [ZuSimpelColor R:0 G:0 B:128] //海军色
+#define oldlace [ZuSimpelColor R:253 G:245 B:230] //老花色
+#define olive [ZuSimpelColor R:128 G:128 B:0] //橄榄色
+#define oliverab [ZuSimpelColor R:107 G:142 B:35] //深绿褐色
+#define orange [ZuSimpelColor R:255 G:165 B:0] //橙色
+#define orangered [ZuSimpelColor R:255 G:69 B:0] //红橙色
+#define orchid [ZuSimpelColor R:218 G:112 B:214] //淡紫色
+#define palegoldenrod [ZuSimpelColor R:238 G:232 B:170] //苍麒麟色
+#define palegreen [ZuSimpelColor R:152 G:251 B:152] //苍绿色
+#define loaleturquoise [ZuSimpelColor R:175 G:238 B:238] //苍宝石绿
 
 
 
