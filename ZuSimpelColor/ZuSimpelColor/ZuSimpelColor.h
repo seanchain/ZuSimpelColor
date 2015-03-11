@@ -125,6 +125,18 @@
 #define rosybrown [ZuSimpelColor R:188 G:143 B:143] //褐玫瑰红
 #define royalblue [ZuSimpelColor R:65 G:105 B:225] //皇家蓝
 #define saddlebrown [ZuSimpelColor R:139 G:69 B:19] //重褐色
+#define salmon [ZuSimpelColor R:250 G:128 B:114] //鲜肉色
+#define sandybrown [ZuSimpelColor R:244 G:164 B:96] //沙褐色
+#define seagreen [ZuSimpelColor R:46 G:139 B:87] //海绿色
+#define seashell [ZuSimpelColor R:255 G:245 B:238] //海贝色
+#define sienna [ZuSimpelColor R:160 G:82 B:45] //赭色
+#define silver [ZuSimpelColor R:192 G:192 B:192] //银色
+#define skyblue [ZuSimpelColor R:135 G:206 B:235] //天蓝色
+#define slateblue [ZuSimpelColor R:106 G:90 B:205] //灰石色
+
+
+
+
 
 @interface ZuSimpelColor : UIViewController
 
