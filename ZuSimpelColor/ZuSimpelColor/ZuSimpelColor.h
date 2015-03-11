@@ -140,6 +140,12 @@
 #define thistle [ZuSimpelColor R:216 G:191 B:216] //蓟色
 #define tomato [ZuSimpelColor R:255 G:99 B:71] //西红柿色
 #define turquoise [ZuSimpelColor R:64 G:224 B:208] //青绿色
+#define violet [ZuSimpelColor R:238 G:130 B:238] //紫罗兰色
+#define wheat [ZuSimpelColor R:245 G:222 B:179] //浅黄色
+#define white [ZuSimpelColor R:255 G:255 B:255] //白色
+#define whitesmoke [ZuSimpelColor R:245 G:245 B:245] //烟白色
+#define yellow [ZuSimpelColor R:255 G:255 B:0] //黄色
+#define yellowgreen [ZuSimpelColor R:154 G:205 B:50] //黄绿色
 
 
 
