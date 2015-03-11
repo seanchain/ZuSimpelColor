@@ -133,7 +133,13 @@
 #define silver [ZuSimpelColor R:192 G:192 B:192] //银色
 #define skyblue [ZuSimpelColor R:135 G:206 B:235] //天蓝色
 #define slateblue [ZuSimpelColor R:106 G:90 B:205] //灰石色
-
+#define snow [ZuSimpelColor R:255 G:250 B:250] //雪白色
+#define springgreen [ZuSimpelColor R:0 G:255 B:127] //春绿色
+#define steelblue [ZuSimpelColor R:70 G:130 B:180] //钢蓝色
+#define tan [ZuSimpelColor R:210 G:180 B:140] //茶色
+#define thistle [ZuSimpelColor R:216 G:191 B:216] //蓟色
+#define tomato [ZuSimpelColor R:255 G:99 B:71] //西红柿色
+#define turquoise [ZuSimpelColor R:64 G:224 B:208] //青绿色
 
 
 
